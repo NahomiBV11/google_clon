@@ -24,4 +24,4 @@ Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
 
 ## 🔗 Más
 ![Github](https://github.com/NahomiBV11)
-![linkedin](https://www.linkedin.com/in/nahomi-bozada-vel%C3%A1zquez-a4b4b22a4/)
+![linkedin](https://www.linkedin.com/in/nahomi-bozada-vel%C3%A1zquez-a4b4b22a4)
